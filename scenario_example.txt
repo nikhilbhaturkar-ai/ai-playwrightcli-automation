@@ -1,0 +1,3 @@
+navigate to http://google.co.in
+enter "hello@example.com" in search box
+click search button

@@ -1,0 +1,2 @@
+"navigate to google.co.in","npx playwright-cli goto http://google.co.in"
+"enter username in username textbox","npx playwright-cli type e1 \"nikhilbhaturkar@gmail.com\""
